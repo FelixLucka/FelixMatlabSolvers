@@ -1,9 +1,0 @@
-- write introduction to all Test scripts
-- StochasticProximalGradientDescent: figure out where you had the implementations 
-from and why SAHRA, STORM do not work anymore
-- unify output in optimization methods
-- rename all options etc following new schema
-- turn variable recast into script block
-- rename nu to step_size
-- find good parameters for example_image_reconstruction_optical_flow_estimation 
-    (get back to the original script in CT/Dynamic and run it on the servers)
