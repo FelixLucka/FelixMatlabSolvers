@@ -14,7 +14,7 @@ addpath(genpath('<path to the folder>/FelixMatlabSolvers/'))
 
 ## Getting started
 
-The scripts in Examples/ try to exemplify the most commonly used functions.
+The scripts in examples/ try to exemplify the most commonly used functions.
 
 ## Contributors
 
