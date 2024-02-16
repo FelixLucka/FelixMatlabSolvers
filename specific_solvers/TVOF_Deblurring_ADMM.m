@@ -135,7 +135,7 @@ typical_scale     = checkSetInput(para, 'typicalScale', '>=0', 1);
 output            = checkSetInput(para, 'output', 'logical', false);
 output_pre_str    = checkSetInput(para, 'outputPreStr', 'char', '');
 output_freq       = checkSetInput(para, 'outputFreq', 'i,>0', 0);
-return_ADMM_var   = checkSetInput(para, 'returnADhttps://www.siam-is18.dm.unibo.it/minisymposiaMMVar', 'logical', true);
+return_ADMM_var   = checkSetInput(para, 'returnADMMVar', 'logical', true);
 data_cast         = checkSetInput(para, 'dataCast', ...
     {'single','double','gpuArray-single','gpuArray-double'}, 'double');
 rho               = checkSetInput(para, 'rho', '>0', 10);
